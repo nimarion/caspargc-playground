@@ -1,0 +1,19 @@
+{
+  "name": "Framer Motion Example",
+  "width": 1920,
+  "height": 1080,
+  "schema": {
+    "name": {
+      "type": "string",
+      "label": "Name"
+    }
+  },
+  "previewData": {
+    "Thierry Henry": {
+      "name": "Thierry Henry"
+    },
+    "Dennis Bergkamp": {
+      "name": "Dennis Bergkamp"
+    }
+  }
+}
