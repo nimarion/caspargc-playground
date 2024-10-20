@@ -8,12 +8,12 @@
     "build": "caspar-graphics build"
   },
   "dependencies": {
-    "@nxtedition/graphics-kit": "2.0.2",
+    "@nxtedition/graphics-kit": "3.0.0",
     "framer-motion": "^11.11.9",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@nxtedition/caspar-graphics": "1.0.1"
+    "@nxtedition/caspar-graphics": "3.0.0"
   }
 }
